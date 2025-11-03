@@ -2,6 +2,10 @@
 Phan Thị Chi - 22GIT
 A Flutter application that fetches and displays real-time news articles from [NewsAPI.org](https://newsapi.org/).
 
+
+Uploading read.mov…
+
+
 ## Features
 
 - ✅ Fetch news from NewsAPI.org using REST API
